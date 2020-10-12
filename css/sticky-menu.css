@@ -49,22 +49,22 @@ html {
     background: #fff;
 }
 .about-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 2850px;
+    padding-top: 100px;
     text-align: center;
-    background: #EFDECD;
+    background: #b3ecff;
 }
 .whatwedo-section {
-    height: 100%;
-    padding-top: 150px;
+    height: 1000px;
+    padding-top: 100px;
     text-align: center;
-    background: #fff;
+    background: #b3ffc6;
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #EFDECD;
+    background: #efefcd;
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
@@ -77,6 +77,3 @@ html {
 .navbar-default .navbar-nav > li > a {
     color: #000;
 }
-
-
-
